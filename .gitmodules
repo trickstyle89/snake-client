@@ -1,0 +1,3 @@
+[submodule "snek-multiplayer"]
+	path = snek-multiplayer
+	url = https://github.com/trickstyle89/snake-client
