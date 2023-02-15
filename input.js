@@ -23,13 +23,13 @@ const handleUserInput = function(key) {
   } else if (key === 'd') {
     conn.write("Move: right");
   } else if (key === 'h') {
-    conn.write("Say: Too slow ");
+    conn.write("Say: F**k Yah! ");
   } else if (key === 'j') {
-    conn.write("Say: What's up");
+    conn.write("Say: Whats's up");
   } else if (key === 'k') {
     conn.write("Say: Nice try");
   } else if (key === 'l') {
-    conn.write("Say: I win");
+    conn.write("Say: Bwahahaha!");
   }
 };
 
